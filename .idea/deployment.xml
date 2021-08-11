@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="frommi@g4.vsi.informatik.uni-frankfurt.de:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="frommi@g4.vsi.informatik.uni-frankfurt.de:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/frommi/fixmatch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tim@cvai-gpu01.rz.uni-frankfurt.de:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
